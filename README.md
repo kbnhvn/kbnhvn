@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 I'm a former front-end developer moving towards a DevOps engineer role. Always passionate about technology, I'm curious and love learning on my own. My background includes both front-end and back-end skills, and now I'm excited to dive into DevOps, aiming to bridge the gap between development and operations to create efficient and scalable solutions.
 
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbnhvn&layout=compact&theme=dark&show_icons=true)
