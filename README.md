@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a former web developer who has now graduated as a DevOps engineer. Always passionate about technology, I am curious and love learning on my own. My background includes both front-end and back-end skills, and now I am excited to dive into DevOps, aiming to bridge the gap between development and operations to create efficient and scalable solutions.
+Curious DevOps engineer | Web app developer background | AI & open-source enthusiast
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbnhvn&layout=compact&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kbnhvn&layout=compact&theme=dark&show_icons=true)
